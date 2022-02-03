@@ -51,8 +51,6 @@ local function Main()
 	if DEBUG then
 		warn("Fetched Properties")
 	end
-
-	print(ClassInstance)
 end
 Main()
 
